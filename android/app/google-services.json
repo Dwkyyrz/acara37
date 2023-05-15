@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621074647929",
+    "firebase_url": "https://acara37-bec37-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "acara37-bec37",
+    "storage_bucket": "acara37-bec37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621074647929:android:ffe52945d30fb8d1517da8",
+        "android_client_info": {
+          "package_name": "com.example.acara37"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621074647929-ujbmns30v1a3lqm78sp48qo8u8rgv03f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1SSaONLTtCO2FJMDwE8AMyFAFDGE7yw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621074647929-ujbmns30v1a3lqm78sp48qo8u8rgv03f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
